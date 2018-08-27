@@ -3911,4 +3911,4 @@ client.on('message', message => {
   message.author.sendEmbed(embed)
  }
 });
-client.login('') //هنا توكن البوت او الحساب اللي بتهكره
+client.login('NDgxODU2NjE1MTc2MjA4NDI0.DmXKnw.xyIPpkOechhvP0cRktr8i89Skw0') //هنا توكن البوت او الحساب اللي بتهكره
