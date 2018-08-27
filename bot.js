@@ -1,4 +1,3 @@
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '*'
@@ -28,6 +27,14 @@ client.user.setGame(`Made By xiYoussef`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
+
+
+
+
+
+
+
+
 var x_x = "Hack" //هنا تحط الامر اللي يشغل الهاك
 
 //اسم البوت واسم السيرفر وصورهم وكل شئ
@@ -3911,4 +3918,14 @@ client.on('message', message => {
   message.author.sendEmbed(embed)
  }
 });
-client.login('NDgxODU2NjE1MTc2MjA4NDI0.DmXKnw.xyIPpkOechhvP0cRktr8i89Skw0') //هنا توكن البوت او الحساب اللي بتهكره
+
+
+
+
+
+
+
+
+
+
+client.login('NDgxODU2NjE1MTc2MjA4NDI0.DmXM3w.Il6O514C5iCEY-k3VkVJaiSeVeQ') //هنا توكن البوت او الحساب اللي بتهكره
